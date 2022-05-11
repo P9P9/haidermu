@@ -9,3 +9,4 @@ services:
       API_HASH: $API_HASH  # defaults to None
       SUDO_USERS: $SUDO_USERS  # defaults to None
       CHANNEL: $CHANNEL  # defaults to None
+      OWNER_NAME: $OWNER_NAME # defaults to None
